@@ -1,6 +1,5 @@
 mkdir projects
-cd projects
-git init
+cd projects 
 mkdir my_project
 cd my_project
 mkdir directory1
